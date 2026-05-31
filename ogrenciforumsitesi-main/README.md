@@ -95,6 +95,7 @@ dinamik SQL sorguları ile anlık gösterilmektedir.
 htdocs/
 │
 ├── index.php
+├── db.sql
 ├── login.php
 ├── register.php
 ├── profile.php
@@ -111,6 +112,3 @@ htdocs/
 ├── partials/
 │   ├── header.php
 │   └── footer.php
-│
-└── database/
-    └── forum_db.sql

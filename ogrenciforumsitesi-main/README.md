@@ -110,5 +110,5 @@ htdocs/
 ├── favicon.png
 │
 ├── partials/
-│   ├── header.php
-│   └── footer.php
+  ├── header.php
+  └── footer.php
